@@ -1,19 +1,37 @@
 # UI-UX-Experiment1
 
 ## Aim:
-To explore the Hands-on UI/UX Experiments
+To explore and understand the fundamentals of User Interface (UI) and User Experience (UX) design, differentiate between them using real-world examples, illustrate their interrelationship, and demonstrate the use of various UI/UX design tools for practical application.
+
 ## Algorithm:
-1.Learn the Basics Understand what UI (visual design) and UX (user experience) mean, and why both are important.
 
-2.Use Real Examples Compare popular apps to see the difference between UI (look) and UX (feel).
-
-3.Show the Connection Design a simple screen and test how UI changes affect the user experience.
-
-4.Try Design Tools Practice with tools like Figma or Adobe XD to create and test your own designs
+Start the experiment.
+Study the Fundamentals:
+Understand the basic concepts of UI (visual design, layout, color, typography) and UX (usability, user flow, accessibility).
+Note the key differences and similarities between UI and UX.
+Differentiate Using Case Studies:
+Select two or more real-world applications (e.g., Swiggy, Amazon, Instagram).
+Analyze how UI elements (colors, icons, typography) and UX elements (navigation flow, usability, feedback) differ in each case.
+Record the findings in a comparison table
+Illustrate the Relationship Between UI and UX:
+Create a diagram or flowchart showing how UI and UX interact in the design process.
+Explain how both contribute to overall product success.
+Demonstrate UI/UX Design Tools:
+Open a design tool such as Figma or Adobe XD.
+Create a simple design prototype (for example, a login page, food delivery screen, or homepage layout).
+Add interactive components (buttons, text fields, navigation).
+Test the user flow and collect feedback.
+Analyze and Observe:
+Observe how the UI elements affect the UX experience.
+Modify design elements to improve usability or aesthetics.
+Conclude the experiment by summarizing:
+The key differences between UI and UX.
+The relationship between them.
+The usefulness of tools in improving design quality.
+Stop the experiment.
 
 ## Output:
-[212223230011 - Aliya Sheema.pdf](https://github.com/user-attachments/files/23574154/212223230011.-.Aliya.Sheema.pdf)
-
+[Lab 1 (UI UX).pdf](https://github.com/user-attachments/files/23573672/Lab.1.UI.UX.pdf)
 
 ## Result:
-The aim is completed and verified
+The fundamentals of User Interface (UI) and User Experience (UX) design were successfully explored and understood.
